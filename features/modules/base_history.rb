@@ -1,0 +1,3 @@
+class BaseHistory
+
+end
