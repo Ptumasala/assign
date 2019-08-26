@@ -1,6 +1,5 @@
 @history
-Feature: As a user I want to check that the previous conversions are being saved
-That that the conversions are saved
+Feature: As a user I want to be sure that the previous conversions are being saved
     Scenario: Verifying that the conversions are being saved
         Given I am in the "Numbers" screen by swiping "down"
         And I have "Decimal" type as base and "Roman numerals" type as converter
